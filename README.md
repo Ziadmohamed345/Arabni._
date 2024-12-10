@@ -5,7 +5,7 @@ The project aims to enhance urban mobility through a Mobility as a Service (MaaS
 =======
 
 ## Project Portfolio
-https://deluxe-mandarin-cfd.notion.site/Arabni-Enhancing-Urban-Mobility-7c0144b2fe0a4dedba4d17168819b630?pvs=74
-
+[https://deluxe-mandarin-cfd.notion.site/Arabni-Enhancing-Urban-Mobility-7c0144b2fe0a4dedba4d17168819b630?pvs=74
+](https://ziadabdelaal.notion.site/Arabni-Project-Portfolio-7c0144b2fe0a4dedba4d17168819b630)
 
 #Arabni #MaaS #Platform #Urban_Mobility 
